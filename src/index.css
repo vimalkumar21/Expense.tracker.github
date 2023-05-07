@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #06564f;
+  
+}
+.tracker {
+  text-align: center;
+  color: rgb(99, 146, 146);
+  font-size: 20px;
+}
+.tracker:hover {
+  text-align: center;
+  color: rgb(93, 152, 152);
+  font-style: oblique;
+  font-size: 23px;
+}
